@@ -1,0 +1,13 @@
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.exe
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.deps.json
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.runtimeconfig.json
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.runtimeconfig.dev.json
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.dll
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\bin\Debug\netcoreapp3.1\PracticeCode_JaggedArray.pdb
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.csprojAssemblyReference.cache
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.AssemblyInfoInputs.cache
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.AssemblyInfo.cs
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.csproj.CoreCompileInputs.cache
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.dll
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.pdb
+F:\New folder\PracticeCode_JaggedArray\PracticeCode_JaggedArray\obj\Debug\netcoreapp3.1\PracticeCode_JaggedArray.genruntimeconfig.cache

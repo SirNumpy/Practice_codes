@@ -1,0 +1,13 @@
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.exe
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.deps.json
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.runtimeconfig.json
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.runtimeconfig.dev.json
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.dll
+F:\New folder\Polymorphic\bin\Debug\netcoreapp3.1\Polymorphic.pdb
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.csprojAssemblyReference.cache
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.AssemblyInfoInputs.cache
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.AssemblyInfo.cs
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.csproj.CoreCompileInputs.cache
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.dll
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.pdb
+F:\New folder\Polymorphic\obj\Debug\netcoreapp3.1\Polymorphic.genruntimeconfig.cache

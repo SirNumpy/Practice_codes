@@ -1,0 +1,13 @@
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.exe
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.deps.json
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.runtimeconfig.json
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.runtimeconfig.dev.json
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.dll
+F:\New folder\practice_code\practice_code\bin\Debug\netcoreapp3.1\practice_code.pdb
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.csprojAssemblyReference.cache
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.AssemblyInfoInputs.cache
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.AssemblyInfo.cs
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.csproj.CoreCompileInputs.cache
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.dll
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.pdb
+F:\New folder\practice_code\practice_code\obj\Debug\netcoreapp3.1\practice_code.genruntimeconfig.cache
