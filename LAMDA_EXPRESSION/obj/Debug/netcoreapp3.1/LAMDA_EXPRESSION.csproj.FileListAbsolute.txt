@@ -1,0 +1,13 @@
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.exe
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.deps.json
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.runtimeconfig.json
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.runtimeconfig.dev.json
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.dll
+F:\New folder\LAMDA_EXPRESSION\bin\Debug\netcoreapp3.1\LAMDA_EXPRESSION.pdb
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.csprojAssemblyReference.cache
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.AssemblyInfoInputs.cache
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.AssemblyInfo.cs
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.csproj.CoreCompileInputs.cache
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.dll
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.pdb
+F:\New folder\LAMDA_EXPRESSION\obj\Debug\netcoreapp3.1\LAMDA_EXPRESSION.genruntimeconfig.cache
