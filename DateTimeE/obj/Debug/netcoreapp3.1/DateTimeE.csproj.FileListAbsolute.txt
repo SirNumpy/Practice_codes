@@ -1,0 +1,13 @@
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.exe
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.deps.json
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.runtimeconfig.json
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.runtimeconfig.dev.json
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.dll
+F:\New folder\DateTimeE\bin\Debug\netcoreapp3.1\DateTimeE.pdb
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.csprojAssemblyReference.cache
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.AssemblyInfoInputs.cache
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.AssemblyInfo.cs
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.csproj.CoreCompileInputs.cache
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.dll
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.pdb
+F:\New folder\DateTimeE\obj\Debug\netcoreapp3.1\DateTimeE.genruntimeconfig.cache
