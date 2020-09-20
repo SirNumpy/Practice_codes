@@ -1,0 +1,13 @@
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.csprojAssemblyReference.cache
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfoInputs.cache
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfo.cs
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.csproj.CoreCompileInputs.cache
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.exe
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.deps.json
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.json
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.dev.json
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.dll
+F:\New folder\linq\bin\Debug\netcoreapp3.1\linq.pdb
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.dll
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.pdb
+F:\New folder\linq\obj\Debug\netcoreapp3.1\linq.genruntimeconfig.cache
